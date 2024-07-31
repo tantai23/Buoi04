@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTTKTT\\tHAMLAM\\THUCHANH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB15E5D9-147C-4BFF-BBDF-FA6AFC7487BE}|THUCHANH\\THUCHANH.csproj|d:\\pttktt\\thamlam\\thuchanh\\thuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB15E5D9-147C-4BFF-BBDF-FA6AFC7487BE}|THUCHANH\\THUCHANH.csproj|solutionrelative:thuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PTTKTT\\tHAMLAM\\THUCHANH\\THUCHANH\\Program.cs",
+              "RelativeDocumentMoniker": "THUCHANH\\Program.cs",
+              "ToolTip": "D:\\PTTKTT\\tHAMLAM\\THUCHANH\\THUCHANH\\Program.cs",
+              "RelativeToolTip": "THUCHANH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T01:46:29.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
